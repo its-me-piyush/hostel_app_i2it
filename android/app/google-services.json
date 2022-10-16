@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100892500518",
+    "project_id": "hostel-app-i2it",
+    "storage_bucket": "hostel-app-i2it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100892500518:android:7dd4802c6d4212c3af7ce7",
+        "android_client_info": {
+          "package_name": "com.kamraNo10.hostelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100892500518-7ijc79qibcuv3q5rtkr7ojuoaol44gfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamraNo10.hostelapp",
+            "certificate_hash": "2236f719b89d962020c8f2f5b34f6d29d4e4deaf"
+          }
+        },
+        {
+          "client_id": "100892500518-feqkph595tt1mvtu07r7btl8182hgo9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTc62W09uMjIZFnZm7-2_wV2d9MQXNUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100892500518-feqkph595tt1mvtu07r7btl8182hgo9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
